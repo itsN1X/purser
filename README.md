@@ -1,9 +1,9 @@
 # Purser.js
 
 ## Mods 
-
-- [ ] Integration into One key ID.
-- [ ] Total Sales module. 
+ 
+- [ ]  Integration into One key ID.
+- [ ]  Total Sales module. 
 
 A lightweight JavaScript library for preserving user data from first website visit to signup.
 
